@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "494665413213",
+    "firebase_url": "https://courtfilechat.firebaseio.com",
+    "project_id": "courtfilechat",
+    "storage_bucket": "courtfilechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494665413213:android:00fb4522b47513e3",
+        "android_client_info": {
+          "package_name": "com.courtfilenow.courtfilechatflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494665413213-pcr56sb3j4dov56fcd43rdpgi3m261li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.courtfilenow.courtfilechatflutter",
+            "certificate_hash": "0c9b6d63317d20d8a261fde846338f6846e81d29"
+          }
+        },
+        {
+          "client_id": "494665413213-i83dkqbr0u82ihc3mmh49rpi27ruq229.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EfISs2gZd3Cn9HHDVFF88uSxMzD6ciA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494665413213-i83dkqbr0u82ihc3mmh49rpi27ruq229.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
